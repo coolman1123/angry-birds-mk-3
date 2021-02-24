@@ -1,4 +1,2 @@
-# angry-birds-mk-3
-bird
-
-you read this good job!
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
